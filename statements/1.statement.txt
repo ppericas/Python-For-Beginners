@@ -1,0 +1,53 @@
+﻿INDEX
+UD1: Identificación de los elementos de un programa informático
+Actividad 01. Hello World!
+Actividad 02. Saludo a persona
+Actividad 03. Comentarios
+Actividad 04. Variables 1
+Actividad 05. Variables 2
+Actividad 06. Variables 3
+Actividad 07. Variables 4        4
+Actividad 08. Operaciones matemáticas        4
+Actividad 09. Potencia        4
+Actividad 10. Resto de una división        4
+Actividad 11. Conversor de días        4
+Actividad 12. Conversor euros-dólares        5
+Actividad 13. Definición de función 1        5
+Actividad 14. Definición de función 2        5
+Actividad 15. Definición de función 3        5
+
+
+________________
+
+
+UD1: Identificación de los elementos de un programa informático
+Actividad 01. Hello World!
+Escribe un script en Python que envíe un mensaje por pantalla que ponga “Hello World!”
+Actividad 02. Saludo a persona
+Escribe un script en Python que te pregunte un nombre y te salude poniendo “Hola [respuesta]!” en una sola línea.
+Actividad 03. Comentarios
+Crea la actividad 02 introduciendo dos comentarios. El primero de una sola línea y el segundo de varias.
+Actividad 04. Variables 1
+Pedir un nombre de persona por pantalla y guardarlo en una variable. Después el programa saludará y despedirá a esa persona.
+Actividad 05. Variables 2
+Declarar una variable, imprimirla, cambiarle el valor y volverla a imprimir.
+Actividad 06. Variables 3
+Pedir dos datos, almacenarlos en dos variables distintas. Intercambiar los valores (realizar un swap) e imprimir los valores de las variables.
+Actividad 07. Variables 4 
+Crea una variable que sea una lista de 5 nombres. Haz un script que vaya saludando a cada una de las personas.
+Actividad 08. Operaciones matemáticas
+Solicitar tres números, almacenarlos en variables diferentes y realizar la suma, multiplicación, resta y división de ellos en el orden que quieras.
+Actividad 09. Potencia
+Solicitar 2 números y realizar la potencia. El primer número será la base y el segundo el exponente.
+Actividad 10. Resto de una división
+Solicitar dos números y que devuelva el resto de su división.
+Actividad 11. Conversor de días
+Solicitar un número de días y realizar el cálculo de horas, minutos y segundos
+Actividad 12. Conversor euros-dólares
+Realizar un conversor de euros a dólares (1€ = 1.07$)
+Actividad 13. Definición de función 1
+Define una función que al llamarla te escriba una frase por pantalla.
+Actividad 14. Definición de función 2
+Define una función que reciba un nombre como parámetro y que haga una concatenación de 2 frases y luego las imprimirla por pantalla.
+Actividad 15. Definición de función 3
+Define una función que reciba un número por parámetro y devuelva por pantalla su doble.
