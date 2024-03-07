@@ -1,0 +1,11 @@
+num1=int(input("Give me a number"))
+num2=int(input("Give me a number"))
+num3=int(input("Give me a number"))
+addition=num1+num2+num3
+subtraction=num1-num2-num3
+multiplication=num1*num2*num3
+division=num1/num2/num3
+print("addition=",addition)
+print("subtraction=",subtraction)
+print("multiplication=",multiplication)
+print("division=",division)
